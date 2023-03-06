@@ -1,5 +1,6 @@
 package chapter2.ch18;
 
+import java.sql.SQLOutput;
 import java.util.Calendar;
 
 public class CompanyTest {
@@ -12,6 +13,7 @@ public class CompanyTest {
         System.out.println(company2);
 
         Calendar calendar = Calendar.getInstance();
+        System.out.println(calendar);
     }
 
 }
