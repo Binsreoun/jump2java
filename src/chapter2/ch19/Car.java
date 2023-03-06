@@ -14,7 +14,4 @@ public class Car {
         return CarNumber;
     }
 
-    public void setCarNumber(int carNumber) {
-        this.CarNumber = carNumber;
-    }
 }
