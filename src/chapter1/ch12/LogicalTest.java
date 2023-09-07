@@ -12,7 +12,7 @@ public class LogicalTest {
 		System.out.println(value);
 		System.out.println(num1);
 		System.out.println(i);
-		
+
 	}
 
 }
