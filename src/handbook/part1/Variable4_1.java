@@ -1,4 +1,4 @@
-package handbok.part1;
+package handbook.part1;
 
 class Variable4_1 {
     public static void main(String[] args) {

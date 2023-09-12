@@ -1,4 +1,4 @@
-package handbok.part1;
+package handbook.part1;
 
 import java.util.Date;
 
